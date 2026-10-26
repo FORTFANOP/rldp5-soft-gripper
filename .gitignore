@@ -1,0 +1,15 @@
+/source_repos
+
+# ROS 2 / colcon build artifacts
+**/build/
+**/install/
+**/log/
+
+# Python
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor
+.vscode/
